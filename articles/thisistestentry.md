@@ -1,12 +1,12 @@
 ---
-title: "これはテスト記事です"
-emoji: ":tada:"
+title: "Pythonで"
+emoji: ":✌"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["GCP"]
 published: false
 ---
 
-# aaa
+# 
 
 ## bbb
 
